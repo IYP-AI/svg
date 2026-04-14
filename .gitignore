@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Ignore all files in var/
+var/*
+!var/**/
+!var/**/*.gitkeep
+
+var_backup/
+\n.env

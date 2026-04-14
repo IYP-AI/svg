@@ -1,0 +1,15 @@
+tiktoken
+tenacity
+pymemcache
+jupyter
+visdom
+scipy
+numpy
+matplotlib
+openai>=1.0.0
+textattack
+pandas
+scikit-learn
+jupyterlab
+evaluate
+python-dotenv
