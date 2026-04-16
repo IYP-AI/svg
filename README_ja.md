@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
 
-<img width="1368" height="519" alt="image" src="https://github.com/user-attachments/assets/3350f86a-2a11-443a-86c1-1ef0acb9c3a7" />
+<img width="1368" height="519" alt="image" src="./docs/images/479871616-3350f86a-2a11-443a-86c1-1ef0acb9c3a7.png" />
 
 　GPU不要で文書検出／テキスト二値分類を行うAIを自動開発する業務用の生成AIです。タスクをプロンプトで入力すると、それを解決するエージェント(SLM)を自動でコーディングして出力します。たとえば、SNSの企業評判のポジネガを判別したり、米国の粉飾決算事件で見られるようなPC上のメールの内容が内部不正と関連する文書かどうかを検出する等の用途に使用できます。Python向けモジュールも提供している為、サードパーティー製業務アプリケーションへの搭載も可能です。
 
@@ -69,7 +69,7 @@ openai.api_key      = "APIキー"
 $ docker exec -it svg-visdom python3 /app/run.py sst2
 ```
 さらに、http://localhost:3000/ へアクセスすることで学習経過を可視化できます。
-<img width="1915" height="874" alt="image" src="https://github.com/user-attachments/assets/91a351ad-0474-458d-ae63-d7b944372882" />
+<img width="1915" height="874" alt="image" src="./docs/images/479877137-91a351ad-0474-458d-ae63-d7b944372882.png" />
 
 ## 補足説明
 - 学習の際は、別途、OpenAI API へのアクセスのためにOpenAI の有償アカウントが必要です。

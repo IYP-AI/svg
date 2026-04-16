@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
 
-<img width="1368" height="519" alt="image" src="https://github.com/user-attachments/assets/3350f86a-2a11-443a-86c1-1ef0acb9c3a7" />
+<img width="1368" height="519" alt="image" src="./docs/images/479871616-3350f86a-2a11-443a-86c1-1ef0acb9c3a7.png" />
 
 This is an enterprise-grade generative AI tool that automatically develops document detection and text binary-classification AI models (Small Language Models / SLMs) without requiring a GPU. When you input a task via a prompt, it automatically writes code and outputs an agent (SLM) to solve it. For example, it can be used to determine the positive/negative sentiment of corporate reputation on social media, or to detect internal fraud based on PC email contents (like the Enron scandal). As it provides a Python module, integration into third-party enterprise applications is also possible.
 
@@ -57,7 +57,7 @@ $ docker exec -it svg-visdom python3 /app/src/run.py sst2
 ```
 > **Note**: On the first execution, the script will automatically download the validation dataset and fetch the necessary OpenAI embeddings. This initialization step might take a few minutes before the actual training begins.
 Furthermore, you can monitor the training progress by accessing http://localhost:3000/
-<img width="1915" height="874" alt="image" src="https://github.com/user-attachments/assets/91a351ad-0474-458d-ae63-d7b944372882" />
+<img width="1915" height="874" alt="image" src="./docs/images/479877137-91a351ad-0474-458d-ae63-d7b944372882.png" />
 
 ## Additional Notes
 - A paid OpenAI account is required for API access during training.
