@@ -33,7 +33,7 @@ This is an enterprise-grade generative AI tool that automatically develops docum
 
 1. **Clone the repository and prepare the environment file:**
 ```bash
-$ git clone git@github.com:Ohsaworks/svg.git
+$ git clone https://github.com/IYP-AI/svg.git
 $ cd svg
 $ cp .env.example .env
 ```
