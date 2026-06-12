@@ -30,7 +30,7 @@
 
 1. **リポジトリをクローンし、環境変数ファイルを用意します：**
 ```bash
-$ git clone git@github.com:Ohsaworks/svg.git
+$ git clone https://github.com/IYP-AI/svg.git
 $ cd svg
 $ cp .env.example .env
 ```
