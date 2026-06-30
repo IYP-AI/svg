@@ -104,5 +104,6 @@ $ docker exec -it svg-visdom python3 /app/run.py sst2
 }
 ```
 
-## 作者
-大澤 昇平 (shohei.ohsawa@iyp.co.jp)
+## クレジット
+- メンテナー: 株式会社I.Y.P Consulting (developer@iyp.co.jp)
+- オリジナル: 大澤 昇平

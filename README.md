@@ -89,5 +89,6 @@ If you use this software, please cite the following paper:
 }
 ```
 
-## Author
-Shohei Ohsawa (shohei.ohsawa@iyp.co.jp)
+## Credits
+- Maintainer: I.Y.P Consulting, Inc. (developer@iyp.co.jp)
+- Original: Shohei Ohsawa
